@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #181310;
+    color: #e8ded4;
+  }
+}
+
+/* Warm brown tone custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #181310;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3e3128;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5a473b;
+}

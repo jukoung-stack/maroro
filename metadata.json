@@ -1,0 +1,6 @@
+{
+  "name": "여행 기록 아카이브",
+  "description": "연도별, 월별, 여행지별로 소중한 순간과 사진, 일기를 기록하고 감상하는 미니멀 여행 타임라인 아카이브입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
